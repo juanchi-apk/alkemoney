@@ -1,0 +1,26 @@
+/alkemy_api/node_modules
+/alkemy_api//vendor
+/alkemy_api/npm-debug.log
+/alkemy_api/yarn-error.log
+/alkemy_api/.env
+/alkemy_api/.DS_Store  
+/alkemy-client/node_modules
+/alkemy-client/.pnp
+/alkemy-client/.pnp.js
+
+# testing
+/alkemy-client//coverage
+
+# production
+/alkemy-client//build
+
+# misc
+/alkemy-client/.DS_Store
+/alkemy-client/.env.local
+/alkemy-client/.env.development.local
+/alkemy-client/.env.test.local
+/alkemy-client/.env.production.local
+
+/alkemy-client/npm-debug.log*
+/alkemy-client/yarn-debug.log*
+/alkemy-client/yarn-error.log*
